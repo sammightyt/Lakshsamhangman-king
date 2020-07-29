@@ -1,0 +1,78 @@
+.center{
+  position:center;
+}
+body{
+  background-image: url("https://github.com/utkarshtrivedi/assets/blob/master/images/bgimage.jpg?raw=true");
+}
+
+
+.title {
+  background-image: url('https://raw.githubusercontent.com/utkarshtrivedi/assets/master/images/hangman-title.png ');
+  width: 100%;
+ height: 100px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+
+
+
+
+.key{
+  height: 50px;
+  width: 50px;
+background-color:white; 
+}
+#keyboard {
+  text-align: center;
+}
+
+
+.hangman-protector{
+  background-color:bisque;
+  text-align:center;
+  width:550px;
+  height:400px;
+}
+
+.in{
+  text-align:center;
+}
+
+#sam .win{
+  background-image: url(`https://raw.githubusercontent.com/utkarshtrivedi/assets/master/images/you-win.pg`)
+  }
+  
+  #sam{
+    width:500px;ng`)
+}
+
+#sam{
+  width:500px;
+  height:100px;
+}
+
+.loseorwin{
+  text-align:center;
+}
+
+.reset{
+  text-align:center;
+}
+
+#reset, #Laksam{
+  width:100px;
+  height:50px;
+ border-radius : 100px;
+  margin-top:30px;
+}
+
+#question{
+  color:white;
+  display:inline;
+}
+
+.question-container{
+  text-align:center;
+}
